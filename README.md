@@ -3,7 +3,7 @@
 
 
    [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ana.rodrigues_._)
-   [![LinkedIn](https://www.linkedin.com/in/ana-clara-rodrigues-de-ara%C3%BAjo-453376111/)
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/ana-clara-rodrigues-de-ara%C3%BAjo-453376111/)
 
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anaarjo&show_icons=true&theme=dracula)
 
